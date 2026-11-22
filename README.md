@@ -7,7 +7,7 @@ I'm open to data analyst, BI, and analytics engineering roles in Los Angeles, re
 ## What I'm building
 
 - [howlate.la](https://github.com/asarelcastellanos/howlate.la) records every LA Metro bus and train position and grades each day against the timetable, so riders can see which lines run late and when. It has collected data since August 2026 and runs a daily grading job on Google Cloud. The public site is next.
-- [claude-workbench](https://github.com/asarelcastellanos/claude-workbench) is my Claude Code setup: skills for plain writing, clean git, and strict TypeScript, plus a process that takes a change from GitHub issue to merged PR.
+- [Studio 201](https://github.com/asarelcastellanos/studio-201) is my Claude Code plugin for solo developers who want to plan, build, and review software with a team of coding agents.
 - [asarelcastellanos.com](https://github.com/asarelcastellanos/asarelcastellanos.com) is my portfolio site, built with SvelteKit and hosted on Vercel.
 
 ## Earlier work
